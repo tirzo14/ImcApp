@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ImcApp</string>
+    <string name="texto_etiqueta_peso">Proporcione el peso en kilogramos</string>
+    <string name="texto_etiqueta_estatura">Proporcione la estatura en metros</string>
+    <string name="texto_boton_calcular">Calcular</string>
+    <string name="texto_boton_limpiar">Limpiar</string>
+    <string name="texto_etiqueta_resultado">El Indice de Masa Corporal(IMC) es</string>
+    <string name="texto_etiqueta_situacion">Estado nutricional de acuerdo a la OMS:</string>
+    <string name="texto_situacion_peso_bajo">Peso bajo</string>
+    <string name="texto_situacion_peso_normal">Peso normal</string>
+    <string name="texto_situacion_sobrepeso">Sobrepeso</string>
+    <string name="texto_situacion_obesidad">Obesidad</string>
+    <string name="texto_situacion_obesidad_extrema">Obesidad extrema</string>
+
+</resources>
